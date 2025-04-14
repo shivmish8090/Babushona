@@ -20,7 +20,7 @@ Dns-Music is an advanced & powerful multi-featured Telegram vc streaming bot.
 
 **1. At First Copy & Paste Below Command.**
 
-```apt update -y && apt install sudo -y && sudo apt install curl ffmpeg git nano python3-pip screen -y && cd && rm -rf DnsMusic && git clone https://github.com/DnsMusic/DnsMusic && cd DnsMusic && pip3 install -r requirements.txt --force-reinstall && screen -R DnsMusic```
+```apt update -y && apt install sudo -y && sudo apt install curl ffmpeg git nano python3-pip screen -y && cd && rm -rf DnsMusic && git clone https://github.com/shivmish8090/Babushona && cd DnsMusic && pip3 install -r requirements.txt --force-reinstall && screen -R DnsMusic```
 
 
 **2. Now Run This Command & Add Your Variables.**
