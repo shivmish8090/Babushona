@@ -204,7 +204,7 @@ async def main():
         sys.exit()
     try:
         await app.join_chat("dns_support_group")
-        await app.join_chat("Dns_Official_Channel")
+        await app.join_chat("Team_Dns_Network")
     except Exception:
         pass
     if LOG_GROUP_ID != 0:
