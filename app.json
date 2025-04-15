@@ -1,13 +1,13 @@
 {
-  "name": "AdityaPlayer",
+  "name": "BabushonaPlayer",
   "description": "An advanced & powerfull vc streaaming bot for telegram.",
   "keywords": [
     "musicbot",
     "vcbot",
     "musicplayer"
   ],
-  "repository": "https://github.com/adityahalder/adityaplayer",
-  "logo": "https://envs.sh/9oZ.jpg",
+  "repository": "https://github.com/shivmish8090/Babushona",
+  "logo": "https://files.catbox.moe/lhy0zv.jpg",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -42,7 +42,7 @@
     },
     "START_IMAGE_URL": {
       "description": "An image url for your bot.",
-      "value": "https://graph.org/file/918101d0ad6b1207e6201.png",
+      "value": "https://files.catbox.moe/lhy0zv.jpg",
       "required": true
     }
   },
