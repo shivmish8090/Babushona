@@ -46,10 +46,10 @@
       "required": true
     }
   },
-  "formation": {
-    "web": {
+"formation": {
+    "worker": {
       "quantity": 1,
-      "size": "standard-2x"
+      "size": "basic"
     }
   }
 }
